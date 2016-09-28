@@ -8,6 +8,10 @@ body p
   font-size: 1.25rem;
 }
 
+body li
+{
+  font-size: 1.25rem;
+}
 nav
 {
   font-size: 1.5rem;
@@ -39,19 +43,4 @@ nav a
 .profile img
 {
   padding-right: 1rem;
-}
-
-.profile p
-{
-  font-size: #1.25rem;
-}
-
-.CurrentProjects
-{
-  font-size: 1.25rem;
-}
-
-.Publications
-{
-  font-size: 1.25rem;
 }
